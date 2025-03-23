@@ -60,4 +60,4 @@ export const omdbApi = {
         }),
 };
 
-export default omdbApi; 
+export default omdbApi;
